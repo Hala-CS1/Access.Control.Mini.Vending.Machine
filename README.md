@@ -1,4 +1,4 @@
-# Digital Logic Design Project
+# Access Control & Mini Vending Machine
 
 This is a group project for the Digital Logic Design course.
 
